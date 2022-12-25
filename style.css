@@ -1,0 +1,72 @@
+/* Style the navigation */
+.navbar {
+    background-color: #3EC1D3;
+  }
+  
+  .navbar a {
+    color: white;
+  }
+  
+  .navbar a:hover {
+    color: #F6F7D7;
+  }
+  
+  /* Style the header */
+  .header {
+    background-color: #FF9A00;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* Style the blog posts */
+  .blog-post {
+    margin-bottom: 30px;
+  }
+  
+  .blog-post .card-img-top {
+    width: 100%;
+    height: auto;
+  }
+  
+  .blog-post .card-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .blog-post .card-text {
+    font-size: 16px;
+    line-height: 24px;
+    color: #555;
+  }
+  
+  .blog-post .btn {
+    background-color: #FF165D;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .blog-post .btn:hover {
+    background-color: #F6F7D7;
+    color: #FF165D;
+  }
+  
+  /* Style the footer */
+  .footer {
+    background-color: #FF165D;
+    color: white;
+    padding: 20px;
+  }
+  
+  .footer a {
+    color: white;
+  }
+  
+  .footer a:hover {
+    color: #F6F7D7;
+  }
+  
